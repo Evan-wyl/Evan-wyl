@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently Studying Reinforcement Learning.
+- 🌱 I’m currently Studying Reinforcement Learning and Game Theory.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com
 

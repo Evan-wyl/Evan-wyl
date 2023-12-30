@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robotics and Machine Learning.
-- 🌱 I’m currently Focusing on Sim-to-Real for the application of RL on Robotics.
+- 🌱 I’m currently focusing on Sim-to-Real for the application of RL on Robotics.
 - :maple_leaf: I'm also care about the sample efficiency of RL and the application of Foundation Model on Robotics.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com

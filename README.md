@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Evan-wyl
-- 👀 I’m interested in Robotics Reinforcement Learning, and Machine Learning.
+- 👀 I’m interested in Robotics and Machine Learning.
 - 🌱 I’m currently Focusing on Sim-to-Real for the application of RL on Robotics.
 - :maple_leaf: I'm also care about the sample efficiency of RL and the application of Foundation Model on Robotics.
 <!-- - 💞️ I’m looking to collaborate on ... -->

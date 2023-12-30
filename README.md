@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robotics, Machine Learning.
-- 🌱 I’m currently Studying Reinforcement Learning, Imitation Learning.
-- 🌱 I’m currently Focusing on Sim-to-Real of the application of Reinforcement Learning on Robotics.
+- 🌱 I’m currently Studying Sim-to-Real for the application of Reinforcement Learning on Robotics.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com
 

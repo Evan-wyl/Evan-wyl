@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robot Learning, Renforcement Learning, Computer Vision and Machine Learning.
 - 🌱 I’m currently focusing on Sim-to-Real for the application of RL on Robotics.
-- :maple_leaf: I'm also care about
-  - sample efficiency,
+- :maple_leaf: I'm also care about sample efficiency,
   - reward designation of RL,
   - the problem of 0-1 reward,
   - multi-task of robot learning,

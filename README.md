@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Evan-wyl
-- 👀 I’m interested in robot learning, renforcement learning, computer vision and machine learning.
-- 🌱 I’m currently focusing on sim-to-real for the application of rl on robotics.
-- :maple_leaf: I'm also care about:
-  - sample efficiency of rl
-  - reward designation of rl
+- 👀 I’m interested in Robot Learning, Renforcement Learning, Computer Vision and Machine Learning.
+- 🌱 I’m currently focusing on Sim-to-Real for the application of RL on Robotics.
+- :maple_leaf: I'm also paying attention to:
+  - sample efficiency of RL
+  - reward designation of RL
   - the problem of 0-1 reward
-  - multi-task of robot learning
-  - universal agent
-  - the application of foundation model on robotics.
+  - multi-task of Robot Learning
+  - Universal Agent
+  - the application of Foundation Model on Robotics.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com
 

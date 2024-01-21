@@ -6,7 +6,7 @@
   - reward designation of RL
   - the problem of 0-1 reward
   - multi-task of Robot Learning
-  - Universal Agent
+  - Generalist Agent
   - the application of Foundation Model on Robotics.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com

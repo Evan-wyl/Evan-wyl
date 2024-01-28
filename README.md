@@ -5,6 +5,7 @@
   - reward designation of RL,
   - the problem of 0-1 reward,
   - Sparse Reward,
+  - Design Decisions,
   - multi-task of Robot Learning,
   - Generalist Agent,
   - the application of Foundation Model on Robotics,

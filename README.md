@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robot Learning, Renforcement Learning, Computer Vision and Machine Learning.
 - 🌱 I'm paying attention to:
-  - sample efficiency of RL,
-  - reward designation of RL,
-  - the problem of 0-1 reward,
+  - Sample Efficiency of RL,
+  - Reward Designation of RL,
   - Sparse Reward,
   - Design Decisions,
-  - multi-task of Robot Learning,
+  - Multi-Task of Robot Learning,
   - Generalist Agent,
   - Foundation Model,
   - and Sim-to-Real.

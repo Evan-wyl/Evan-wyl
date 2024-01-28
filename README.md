@@ -8,7 +8,7 @@
   - Design Decisions,
   - multi-task of Robot Learning,
   - Generalist Agent,
-  - the application of Foundation Model on Robotics,
+  - Foundation Model,
   - and Sim-to-Real.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @ evan.wy.li@gmail.com

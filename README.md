@@ -4,7 +4,7 @@
   - Sample Efficiency of RL,
   - Reward Designation of RL,
   - Sparse Reward,
-  - Design Decisions,
+  - Design Decisions of RL,
   - Multi-Task of Robot Learning,
   - Generalist Agent,
   - Foundation Model,

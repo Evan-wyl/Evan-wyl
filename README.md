@@ -4,6 +4,7 @@
   - Sample Efficiency,
   - Reward Designation,
   - Sparse Reward Problem,
+  - Distributional Training of RL,
   - Design Decisions of RL,
   - Multi-Task of Robot Learning,
   - Generalist Agent,

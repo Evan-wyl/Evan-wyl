@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robot Learning, Renforcement Learning, Computer Vision and Machine Learning.
-- 🌱 I'm currently focusing on language conditioned policy of Robotical Manipulation.
+- 🌱 I'm currently focusing on language conditioned policy and vision-lanuage-action model of Robot.
 - 🍁 I'm paying attention to:
   - Sample Efficiency,
   - Reward Designation,

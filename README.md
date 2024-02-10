@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/:Evan-wyl)
+![GitHub followers](https://img.shields.io/github/followers/Evan-wyl)
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m interested in Robot Learning, Renforcement Learning, Computer Vision and Machine Learning.
 - 🌱 I'm currently focusing on language conditioned policy and vision-lanuage-action model of Robot.

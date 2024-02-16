@@ -8,6 +8,7 @@
   - Distributional Training of RL,
   - Design Decisions of RL,
   - Multi-Task of Robot Learning,
+  - Long-Horizon Reasoning,
   - Generalist Agent,
   - Foundation Model,
   - and Sim-to-Real.

@@ -9,8 +9,6 @@
   - Long-Horizon Reasoning,
   - Foundation Model,
   - and Sim-to-Real.
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me @ evan.wy.li@gmail.com
 
 <!---
 Evan-wyl/Evan-wyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

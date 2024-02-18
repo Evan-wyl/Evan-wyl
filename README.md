@@ -9,6 +9,8 @@
   - Long-Horizon Reasoning,
   - Foundation Model,
   - and Sim-to-Real.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evan-wyl)](https://github.com/Evan-wyl/github-readme-stats)
  
 <!---
 Evan-wyl/Evan-wyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

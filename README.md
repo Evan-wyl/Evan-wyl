@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
-- 👀 I’m interested in Robot Learning and Multi-Modal Large-Model.
-- 🌱 I'm currently focusing on Multi-Modal model and Vision-Lanuage-Action model.
+- 👀 I’m a Robot Learning Algorithm Engineer.
+- 🌱 I’m interested in Robot Learning and Embodied AI.
 - 🍁 My long term goal is to build smart assistant.
  
 <!---

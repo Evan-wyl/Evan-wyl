@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-wyl
 - 👀 I’m a Robot Learning Engineer.
-- 🌱 I’m interested in Robot Learning, Speech Generation, AGI and Embodied AI.
+- 🌱 I’m interested in Robot Learning, Speech Generation and Embodied AI.
 - 🍁 My long term goal is to build smart assistant.
 
 <!---
